@@ -1,0 +1,8 @@
+- Browse general [[Ranking]]
+- Browse your [[Ranking]]
+- Browse friends [[Ranking]]
+- Browse animals (filters voted/not voted)
+- Browse individual animal page with its article and its [[Individual animal score|animal score]]
+- Vote on [[Individual animal score|animal score]] (10 categories)
+- Add friends
+- As an admin create animal articles

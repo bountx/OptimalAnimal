@@ -1,0 +1,1 @@
+Calculates average when new vote on that animal is sent or on each view of the animal article page. This way we prevent calculation errors (multiple calculations), but we don't overload server with requests while viewing rankings.
